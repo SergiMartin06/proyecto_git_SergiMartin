@@ -6,4 +6,4 @@ Sergi Martin Server
 
 Sergi Pons
 
-(Practica fetch - Sergi Martin)
+(Practica fetch - Sergi Martin Server)
